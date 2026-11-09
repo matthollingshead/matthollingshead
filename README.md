@@ -1,8 +1,8 @@
 # Hi, I'm Matt Hollingshead 👋
 
-I'm a technical SEO consultant and web developer based in Canada, with 7+ years of experience. I work with clients on audits, JavaScript SEO, and site migrations. Lately, I've been learning more about AI search and how AI crawlers and agents interact with websites.
+I'm a technical SEO consultant and web developer based in Canada, with 7+ years of experience. I work with clients on audits, JavaScript SEO, and site migrations. Lately, I've been learning more about AI search and how AI crawlers and agents interact with websites. Outside of work, you'll probably find me on the golf course.
 
-Ask me about rendering, hydration, crawling and indexing, or site migrations. You can reach me through [matthollingshead.com](https://matthollingshead.com/) or [LinkedIn](https://www.linkedin.com/in/m-hollingshead/). When I'm not working, you'll probably find me on the golf course.
+Ask me about rendering, hydration, crawling and indexing, or site migrations. You can reach me through [matthollingshead.com](https://matthollingshead.com/) or [LinkedIn](https://www.linkedin.com/in/m-hollingshead/).
 
 ### Latest writing
 
